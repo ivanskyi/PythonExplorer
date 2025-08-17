@@ -8,6 +8,10 @@
 - Input/output: `input()`, `print()`
 - Comments and code style (PEP8)
 
+Articles: <br>
+[Name Conventions](docs/1_Name_Convention.md) <br>
+[Data Types](docs/2_Data_Types.md)
+
 ## 2. Control Flow
 - Conditional statements: `if`, `elif`, `else`
 - Loops: `for`, `while`
